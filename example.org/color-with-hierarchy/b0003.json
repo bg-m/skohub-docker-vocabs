@@ -4,7 +4,7 @@
   "followers": "https://test.skohub.io/followers?subject=skohub-docker-vocabs%2Fexample.org%2Fcolor-with-hierarchy%2Fb0003",
   "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fexample.org%2Fcolor-with-hierarchy%2Fb0003",
   "prefLabel": {
-    "en": "Light green",
+    "en": "light green",
     "de": "Hellgrün"
   },
   "broader": {
